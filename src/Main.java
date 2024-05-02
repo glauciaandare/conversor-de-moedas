@@ -6,6 +6,7 @@ public class Main {
         System.out.println("1) Dolar =>> Peso Argentino");
         System.out.println("2) Peso Argentino =>> Dolar");
         System.out.println("3) Dolar =>> Real Brasileiro");
+        System.out.println(") Real Brasileiro =>> Dolar");
 
     }
 }
