@@ -3,9 +3,9 @@ public class Main {
         System.out.println("***************************************");
         System.out.println("Seja bem-vindo/a ao Conversor de Moeda");
         System.out.println();
-        System.out.println();
         System.out.println("1) Dolar =>> Peso Argentino");
         System.out.println("2) Peso Argentino =>> Dolar");
+        System.out.println("3) Dolar =>> Real Brasileiro");
 
     }
 }
